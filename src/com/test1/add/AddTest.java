@@ -9,6 +9,6 @@ package com.test1.add;
 public class AddTest {
     public static void main(String[] args) {
         //这是一个main方法，是程序的入口
-
+        System.out.println("你好啊");
     }
 }
